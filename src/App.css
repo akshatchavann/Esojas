@@ -1,5 +1,3 @@
-/* App.css */
-
 /* General styles */
 body {
   font-family: Arial, sans-serif;
@@ -13,6 +11,7 @@ body {
   text-align: center;
 }
 
+/* Header styles */
 .App-header {
   background-color: #1e1e1e;
   color: #fff;
@@ -21,6 +20,7 @@ body {
   align-items: center;
   justify-content: space-between;
   border-bottom: 3px solid #333;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .logo-container img {
@@ -34,7 +34,15 @@ body {
 
 .header-content h1 {
   margin: 0;
-  font-size: 2em;
+  font-size: 2.2em;
+  font-weight: bold;
+  color: #fff;
+}
+
+.header-content p {
+  margin: 10px 0;
+  font-size: 1.1em;
+  color: #ccc;
 }
 
 .contact-info {
@@ -43,6 +51,8 @@ body {
 
 .contact-info p {
   margin: 5px 0;
+  font-size: 1em;
+  color: #ddd;
 }
 
 /* Section styles */
