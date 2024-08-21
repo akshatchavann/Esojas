@@ -20,7 +20,7 @@ function App() {
           <img 
             src={logo} // Ensure you have a logo.svg file in your src directory
             alt="Esojas Logo" 
-            style={{ height: '60px', marginRight: '20px' }} 
+            style={{ height: '60px', marginRight: '0px' }} 
           />
         </div>
         <div 
