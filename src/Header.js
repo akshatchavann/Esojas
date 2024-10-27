@@ -33,7 +33,7 @@ function Header() {
         </Link>
         <Link to="/projects" style={{ textDecoration: 'none' }}>
           <button style={{ padding: '8px 16px', fontSize: '14px', backgroundColor: '#fff', color: '#000', border: 'none', borderRadius: '4px', cursor: 'pointer' }}>
-            Projects
+            Portfolio
           </button>
         </Link>
       </div>
