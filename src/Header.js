@@ -28,7 +28,7 @@ function Header() {
           Phone: +1 (313) 610-1068
         </p>
         <p style={{ margin: '0', fontSize: '14px', color: '#fff' }}>
-          Address: 28 Bridgeton Drive, Parsippany, NJ 07054
+          Address: ESOJAS RS LLC, Parsippany, NJ
         </p>
         <p style={{ margin: '0', fontSize: '14px', color: '#fff' }}>
           Email: Mchavanpatil9@gmail.com
