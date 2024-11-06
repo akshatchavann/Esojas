@@ -24,6 +24,15 @@ function Header() {
         style={{ flex: '1 1 auto', textAlign: 'center' }}
       >
         <h1 style={{ margin: '0', fontSize: '24px', fontWeight: 'bold', color: '#fff' }}>Welcome to Esojas Consulting Services</h1>
+        <p style={{ margin: '5px 0 0', fontSize: '14px', color: '#fff' }}>
+          Phone: +1 (313) 610-1068
+        </p>
+        <p style={{ margin: '0', fontSize: '14px', color: '#fff' }}>
+          Address: 28 Bridgeton Drive, Parsippany, NJ 07054
+        </p>
+        <p style={{ margin: '0', fontSize: '14px', color: '#fff' }}>
+          Email: Mchavanpatil9@gmail.com
+        </p>
       </div>
       <div className="button-container" style={{ flex: '0 1 auto', display: 'flex', gap: '10px' }}>
         <Link to="/" style={{ textDecoration: 'none' }}>
