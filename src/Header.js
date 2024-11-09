@@ -24,9 +24,6 @@ function Header() {
         style={{ flex: '1 1 auto', textAlign: 'center' }}
       >
         <h1 style={{ margin: '0', fontSize: '24px', fontWeight: 'bold', color: '#fff' }}>Welcome to Esojas Consulting Services</h1>
-        <p style={{ margin: '5px 0 0', fontSize: '14px', color: '#fff' }}>
-          Phone: +1 (313) 610-1068
-        </p>
         <p style={{ margin: '0', fontSize: '14px', color: '#fff' }}>
           Address: ESOJAS RS LLC, Parsippany, NJ
         </p>
